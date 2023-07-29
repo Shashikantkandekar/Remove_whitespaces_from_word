@@ -1,0 +1,1 @@
+# Remove_whitespaces_from_word
